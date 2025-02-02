@@ -1,3 +1,3 @@
-a = (34,234,"Harry")
+a = (34,234,"Puneet")
 
-a[2] = "Larry"
+a[2] = "Auneet"
